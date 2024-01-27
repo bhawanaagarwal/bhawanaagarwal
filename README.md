@@ -1,11 +1,8 @@
 ### Hi there 👋
-🔭 I am a result-driven data scientist with a Master of Science in Information Systems from Northeastern University, where I gained a conceptual and theoretical understanding of key technologies such as large language models, image generation, attention mechanisms, and Transformer models, among others. I have also completed multiple online courses and certifications in Python, machine learning, and data science, demonstrating my passion and proficiency in these domains.
+Hello there 👋,
+🚀 I am Bhawana Agarwal, a dynamic data enthusiast driven by results and armed with a Master of Science in Information Systems from Northeastern University. My academic journey has equipped me with a profound conceptual and theoretical understanding of cutting-edge technologies, including large language models, image generation, attention mechanisms, and Transformer models.
 
-As a Research Assistant/Course Development Assistant at Northeastern University, I collaborated on comprehensive Python and Generative AI courses, estimating to attract 1000+ students on Coursera. Leveraging Jupyter Notebook and Google Generative AI Studio, ensuring an industry-standard learning experience.
-
-At Ernst & Young, I automated tax data extraction, achieving a 50% efficiency gain, 95% accuracy improvement, and close to $1 million annual cost savings. Optimizing tax preparation reduced form time by 30%, errors by 20%, and designing a prototype by applying K-Means clustering with an estimated boost in client engagement by 10%. Additionally, developed a Python VAT reconciliation tool, achieving a 95% efficiency gain, processing hundreds of file pairs in under 30 seconds.
-
-I have a wide experience in technologies both in professional and academic settings
+🌐 My expertise spans a wide spectrum of technologies, cultivated through diverse experiences in both professional and academic settings. I am eager to connect with fellow enthusiasts, ready to share and expand our knowledge together. Let's embark on a journey of continuous learning and innovation!
 
 ## My Recent Works:
 
