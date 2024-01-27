@@ -1,7 +1,9 @@
 ### Hi there 👋
-🚀 I am Bhawana Agarwal, a dynamic data enthusiast driven by results and armed with a Master of Science in Information Systems from Northeastern University. My academic journey has equipped me with a profound conceptual and theoretical understanding of cutting-edge technologies, including large language models, image generation, attention mechanisms, and Transformer models.
-
+🚀 I am Bhawana Agarwal, a seasoned data enthusiast with over 6 years of hands-on experience, driven by results and armed with a Master of Science in Information Systems from Northeastern University. My academic journey has equipped me with a profound conceptual and theoretical understanding of cutting-edge technologies, including large language models, image generation, attention mechanisms, and Transformer models.
 🌐 My expertise spans a wide spectrum of technologies, cultivated through diverse experiences in both professional and academic settings. I am eager to connect with fellow enthusiasts, ready to share and expand our knowledge together. Let's embark on a journey of continuous learning and innovation!
+
+Excited to connect with you,
+Bhawana Agarwal 🚀
 
 ## My Recent Works:
 
