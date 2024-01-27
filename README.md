@@ -76,11 +76,6 @@ I have a wide experience in technologies both in professional and academic setti
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23#5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhawanaagarwal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhawanaagarwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanaagarwal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhawanaagarwal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
