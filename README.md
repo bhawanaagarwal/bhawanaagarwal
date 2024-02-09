@@ -8,6 +8,7 @@ But hold on, the story doesn't end there. Feeling the need for more, I decided t
 My expertise spans a wide spectrum of technologies, cultivated through diverse experiences in both professional and academic settings. I am eager to connect with fellow enthusiasts, ready to share and expand our knowledge together. Let's embark on a journey of continuous learning and innovation!
 
 Excited to connect with you,
+
 Bhawana Agarwal 🚀
 
 ## My Recent Works:
