@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am Bhawana Agarwal, a seasoned data enthusiast with over 6 years of hands-on experience, driven by results and armed with a Master of Science in Information Systems from Northeastern University. My academic journey has equipped me with a profound conceptual and theoretical understanding of cutting-edge technologies, including large language models, image generation, attention mechanisms, and Transformer models.<br>
+Starting from scratch in the tech realm, I stumbled into programming and secured my first job in 2017. Dreaming big, I expressed my ambition of becoming a data scientist to my manager. With his unwavering support, I embraced Python, shadowed a knowledgeable colleague, and smoothly glided into Data Science.
+
+But hold on, the story doesn't end there. Feeling the need for more, I decided to level up in Machine Learning and Data Science. Packed my bags, landed in the US, and after two rollercoaster years, I proudly graduated in December 2023. Along the journey, I've found a passion for problem-solving that keeps me energized and motivated.<br>
 My expertise spans a wide spectrum of technologies, cultivated through diverse experiences in both professional and academic settings. I am eager to connect with fellow enthusiasts, ready to share and expand our knowledge together. Let's embark on a journey of continuous learning and innovation!
 
 Excited to connect with you,
