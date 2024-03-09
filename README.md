@@ -1,5 +1,6 @@
 ### Hi there 👋
-Ever wondered what it takes to carve your path from zero tech background to a career in programming?
+
+A little about my journey - 
 
 It all started in 2016 when I did my first unpaid internship and secured my first job in 2017. Dreaming big, I expressed my ambition of becoming a data scientist to my manager. With his unwavering support, I embraced Python, shadowed a knowledgeable colleague, and smoothly glided into Data Science.
 
